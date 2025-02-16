@@ -3,8 +3,9 @@ import React from "react";
 import ProjectCard from "../components/ProjectCard";
 
 const projectData = [
-    { title: "Project 1", description: "Description for Project 1", link: "https://example.com" },
-    { title: "Project 2", description: "Description for Project 2", link: "https://example.com" },
+    { title: "BlockCal", description: "Calendar App", link:"https://example.com"},
+    { title: "Hazmapp", description: "Description for Project 2", link: "https://example.com" },
+    { title: "Liquid Level Dection", description: "Liquid Photo Measurer", link: "https://example.com" },
 ];
 
 function Projects() {
