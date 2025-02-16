@@ -8,7 +8,7 @@ function About() {
       <p>
         Welcome to my About page! I'm a big fan of the Philadelphia Eagles and love building cool web apps like this one.
       </p>
-      <img src="/mog1.jpg" alt="Me" style={{ width: "300px" }} />
+      <img src="/public/mog1.jpg" alt="Me" style={{ width: "300px" }} />
       <p>
         When I'm not coding, you can find me cheering for my team or exploring new technologies. Fly, Eagles, Fly!
       </p>
